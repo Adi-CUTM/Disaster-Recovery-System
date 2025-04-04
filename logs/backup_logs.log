@@ -1,0 +1,93 @@
+2025-04-03 16:01:13,399 - INFO - 🚀 Executing command: risk-check
+2025-04-03 16:01:15,133 - INFO - ✅ File is safe: C:\$Recycle.Bin\S-1-5-21-1724107726-636549687-1044046282-1001\$ID4J1T7.zip
+2025-04-03 16:01:15,793 - INFO - ✅ File is safe: C:\Program Files\Adobe\Acrobat DC\Acrobat\1494870C-9912-C184-4CC9-B401-A53F4D8DE290.pdf
+2025-04-03 16:01:16,361 - INFO - ✅ File is safe: C:\Program Files\Adobe\Acrobat DC\Acrobat\acrobat_reader_appicon_16.png
+2025-04-03 16:01:16,878 - INFO - ✅ File is safe: C:\Program Files\Adobe\Acrobat DC\Acrobat\Click on 'Change' to select default PDF handler.pdf
+2025-04-03 16:01:17,566 - INFO - ✅ File is safe: C:\Program Files\Adobe\Acrobat DC\Acrobat\PDFSigQFormalRep.pdf
+2025-04-03 16:01:18,248 - INFO - ✅ File is safe: C:\Program Files\Adobe\Acrobat DC\Acrobat\AcroCEF\COPYING.LGPLv2.1.txt
+2025-04-03 16:01:18,803 - INFO - ✅ File is safe: C:\Program Files\Adobe\Acrobat DC\Acrobat\AcroCEF\LICENSE.txt
+2025-04-03 16:01:19,420 - INFO - ✅ File is safe: C:\Program Files\Adobe\Acrobat DC\Acrobat\acrocef_1\COPYING.LGPLv2.1.txt
+2025-04-03 16:01:19,944 - INFO - ✅ File is safe: C:\Program Files\Adobe\Acrobat DC\Acrobat\acrocef_1\LICENSE.txt
+2025-04-03 16:01:20,539 - INFO - ✅ File is safe: C:\Program Files\Adobe\Acrobat DC\Acrobat\Assets\DesktopNotif-AIChat-DARK-DE.gif
+2025-04-03 16:01:21,067 - INFO - ✅ File is safe: C:\Program Files\Adobe\Acrobat DC\Acrobat\Assets\DesktopNotif-AIChat-DARK-ES.gif
+2025-04-03 16:01:21,793 - INFO - ✅ File is safe: C:\Program Files\Adobe\Acrobat DC\Acrobat\Assets\DesktopNotif-AIChat-DARK-FR.gif
+2025-04-03 16:01:50,555 - INFO - 🚀 Executing command: verify-backups
+2025-04-03 16:01:50,605 - INFO - Checksum for E:\Saved Games\disaster-recovery-system\backups\local_backup.zip: c7ff6b54627a77b132a755c72912a845644042be924a89a0788e5fa630c009e3
+2025-04-03 16:01:50,607 - INFO - ✅ Local backup exists at 2025-04-03 16:01:50.606805. Checksum: c7ff6b54627a77b132a755c72912a845644042be924a89a0788e5fa630c009e3
+2025-04-03 16:01:50,608 - INFO - ✅ Cloud backup is up-to-date at 2025-04-03 16:01:50.608804.
+2025-04-03 16:01:50,614 - INFO - ✅ Backup verification completed successfully.
+2025-04-03 16:02:54,199 - INFO - 🚀 Executing command: ransom-recover
+2025-04-03 16:02:54,201 - INFO - ✅ Ransomware recovery executed successfully.
+2025-04-03 16:05:13,483 - INFO - 🚀 Executing command: ransom-attack
+2025-04-03 16:05:13,558 - CRITICAL - ❌ Ransomware attack executed!
+2025-04-03 16:05:38,873 - INFO - 🚀 Executing command: ransom-recover
+2025-04-03 16:05:38,875 - INFO - ✅ Ransomware recovery executed successfully.
+2025-04-03 16:06:38,448 - INFO - 🚀 Executing command: ransom-attack
+2025-04-03 16:06:38,463 - CRITICAL - ❌ Ransomware attack executed!
+2025-04-03 16:08:30,867 - INFO - 🚀 Executing command: ransom-attack
+2025-04-03 16:08:30,879 - CRITICAL - ❌ Ransomware attack executed!
+2025-04-03 16:14:44,569 - INFO - 🚀 Executing command: ransom-attack
+2025-04-03 16:14:44,601 - CRITICAL - ❌ Ransomware attack executed!
+2025-04-03 16:15:08,446 - INFO - 🚀 Executing command: ransom-recover
+2025-04-03 16:15:08,449 - INFO - ✅ Ransomware recovery executed successfully.
+2025-04-03 16:27:53,863 - INFO - 🚀 Executing command: ransom-recover
+2025-04-03 16:27:53,865 - INFO - ✅ Ransomware recovery executed successfully.
+2025-04-03 16:35:34,482 - INFO - 🚀 Executing command: ransom-recover
+2025-04-03 21:04:07,464 - INFO - 🚀 Executing command: verify-backups
+2025-04-03 21:04:07,480 - ERROR - ❌ Local backup not found! Creating dummy backup at 2025-04-03 21:04:07.480418.
+2025-04-03 21:04:07,482 - INFO - ✅ Cloud backup is up-to-date at 2025-04-03 21:04:07.482421.
+2025-04-03 21:04:07,485 - INFO - ✅ Backup verification completed successfully.
+2025-04-03 21:04:34,826 - INFO - 🚀 Executing command: local-backup
+2025-04-03 21:04:34,827 - INFO - Starting local backup...
+2025-04-03 21:04:34,994 - INFO - Local backup completed successfully.
+2025-04-03 21:04:34,995 - INFO - ✅ Local backup executed successfully.
+2025-04-03 21:05:05,555 - INFO - 🚀 Executing command: cloud-backup
+2025-04-03 21:05:05,556 - INFO - Starting cloud backup...
+2025-04-03 21:07:08,409 - INFO - Cloud backup uploaded successfully.
+2025-04-03 21:07:08,409 - INFO - ✅ Cloud backup executed successfully.
+2025-04-03 21:11:11,829 - INFO - 🚀 Executing command: phish-sim
+2025-04-03 21:14:58,245 - INFO - 🚀 Executing command: phish-sim
+2025-04-03 21:19:16,224 - INFO - ✅ Phishing simulation executed successfully.
+2025-04-03 21:19:26,857 - INFO - 🚀 Executing command: phish-recover
+2025-04-03 21:20:40,902 - INFO - ✅ Phishing recovery executed successfully.
+2025-04-03 21:25:16,763 - INFO - 🚀 Executing command: phish-sim
+2025-04-03 21:26:40,651 - INFO - ✅ Phishing simulation executed successfully.
+2025-04-03 21:27:25,697 - INFO - 🚀 Executing command: phish-sim
+2025-04-03 21:29:43,593 - INFO - ✅ Phishing simulation executed successfully.
+2025-04-03 21:31:05,507 - INFO - 🚀 Executing command: phish-sim
+2025-04-03 21:39:35,254 - INFO - 🚀 Executing command: phish-sim
+2025-04-03 21:40:39,814 - INFO - 🚀 Executing command: phish-recover
+2025-04-03 21:45:42,664 - INFO - ✅ Phishing recovery executed successfully.
+2025-04-03 21:48:08,251 - INFO - 🚀 Executing command: local-backup
+2025-04-03 21:48:08,252 - INFO - Starting local backup...
+2025-04-03 21:48:08,393 - INFO - Local backup completed successfully.
+2025-04-03 21:48:08,394 - INFO - ✅ Local backup executed successfully.
+2025-04-03 21:48:22,587 - INFO - 🚀 Executing command: verify-backups
+2025-04-03 21:48:22,601 - ERROR - ❌ Local backup not found! Creating dummy backup at 2025-04-03 21:48:22.601490.
+2025-04-03 21:48:22,604 - INFO - ✅ Cloud backup is up-to-date at 2025-04-03 21:48:22.604492.
+2025-04-03 21:48:22,607 - INFO - ✅ Backup verification completed successfully.
+2025-04-04 09:47:51,765 - INFO - 🚀 Executing command: verify-backups
+2025-04-04 09:47:51,777 - ERROR - ❌ Local backup not found! Creating dummy backup at 2025-04-04 09:47:51.777418.
+2025-04-04 09:47:51,780 - INFO - ✅ Cloud backup is up-to-date at 2025-04-04 09:47:51.779453.
+2025-04-04 09:47:51,785 - INFO - ✅ Backup verification completed successfully.
+2025-04-04 09:48:23,330 - INFO - 🚀 Executing command: backup-status
+2025-04-04 09:48:23,330 - INFO - Checking backup status...
+2025-04-04 09:48:28,419 - INFO - Backup status check completed.
+2025-04-04 09:48:28,420 - INFO - ✅ Backup status check completed successfully.
+2025-04-04 09:52:17,415 - INFO - 🚀 Executing command: monitor-backups
+2025-04-04 09:52:17,416 - INFO - 🛡️ Starting backup monitoring in: E:\Saved Games\disaster-recovery-system\backups\local
+2025-04-04 09:52:17,416 - INFO - 🔍 Starting monitoring of backups in: E:\Saved Games\disaster-recovery-system\backups\local
+2025-04-04 09:52:17,418 - INFO - 📌 Monitoring latest backup: E:\Saved Games\disaster-recovery-system\backups\local\Aditya@215IAM_accessKeys.csv
+2025-04-04 09:55:17,200 - INFO - 🛑 Backup monitoring stopped manually.
+2025-04-04 10:07:58,095 - INFO - 🚀 Executing command: local-backup
+2025-04-04 10:07:58,096 - INFO - Starting local backup...
+2025-04-04 10:07:58,360 - INFO - Local backup completed successfully.
+2025-04-04 10:07:58,361 - INFO - ✅ Local backup executed successfully.
+2025-04-04 10:08:06,258 - INFO - 🚀 Executing command: local-backup
+2025-04-04 10:08:06,259 - INFO - Starting local backup...
+2025-04-04 10:08:06,459 - INFO - Local backup completed successfully.
+2025-04-04 10:08:06,460 - INFO - ✅ Local backup executed successfully.
+2025-04-04 10:08:30,483 - INFO - 🚀 Executing command: verify-backups
+2025-04-04 10:08:30,487 - ERROR - ❌ Local backup not found! Creating dummy backup at 2025-04-04 10:08:30.486644.
+2025-04-04 10:08:30,491 - INFO - ✅ Cloud backup is up-to-date at 2025-04-04 10:08:30.490647.
+2025-04-04 10:08:30,506 - INFO - ✅ Backup verification completed successfully.

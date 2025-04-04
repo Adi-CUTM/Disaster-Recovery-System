@@ -1,0 +1,63 @@
+2025-04-03 13:07:13,605 - \U0001f50d Monitoring C:/Users/adity/Downloads for new ZIP files...
+2025-04-03 13:07:13,616 - \U0001f512 Encrypting C:/Users/adity/Downloads\Python_Course-20250330T154803Z-001.zip...
+2025-04-03 13:07:13,722 - \u2705 Encrypted and moved to C:/Users/adity/Downloads\Encrypted: Python_Course-20250330T154803Z-001.zip
+2025-04-03 13:07:13,724 - \U0001f4dc Ransom note created: C:/Users/adity/Downloads\ransom_note.txt
+2025-04-03 13:07:13,725 - \U0001f480 Ransomware attack simulated! Check C:/Users/adity/Downloads\ransom_note.txt for details.
+2025-04-03 16:02:54,200 - \u26a0\ufe0f Skipping non-encrypted file: local_backup.zip
+2025-04-03 16:05:13,485 - \U0001f50d Monitoring C:/Users/adity/Downloads for new ZIP files...
+2025-04-03 16:05:13,496 - \U0001f512 Encrypting C:/Users/adity/Downloads\local_backup.zip...
+2025-04-03 16:05:13,554 - \u2705 Encrypted and moved to C:/Users/adity/Downloads\Encrypted: local_backup.zip
+2025-04-03 16:05:13,557 - \U0001f4dc Ransom note created: C:/Users/adity/Downloads\ransom_note.txt
+2025-04-03 16:05:13,557 - \U0001f480 Ransomware attack simulated! Check C:/Users/adity/Downloads\ransom_note.txt for details.
+2025-04-03 16:05:38,874 - \u26a0\ufe0f Skipping non-encrypted file: local_backup.zip
+2025-04-03 16:06:38,450 - \U0001f50d Monitoring C:/Users/adity/Downloads for new ZIP files...
+2025-04-03 16:06:38,451 - \U0001f512 Encrypting C:/Users/adity/Downloads\local_backup.zip...
+2025-04-03 16:06:38,460 - \u274c Error encrypting C:/Users/adity/Downloads\local_backup.zip: [Errno 2] No such file or directory: 'C:/Users/adity/Downloads\\Encrypted\\local_backup.zip.enc'
+2025-04-03 16:06:38,461 - \U0001f4dc Ransom note created: C:/Users/adity/Downloads\ransom_note.txt
+2025-04-03 16:06:38,461 - \U0001f480 Ransomware attack simulated! Check C:/Users/adity/Downloads\ransom_note.txt for details.
+2025-04-03 16:08:30,868 - \U0001f50d Monitoring C:/Users/adity/Downloads for new ZIP files...
+2025-04-03 16:08:30,869 - \U0001f512 Encrypting C:/Users/adity/Downloads\local_backup.zip...
+2025-04-03 16:08:30,872 - \u274c Error encrypting C:/Users/adity/Downloads\local_backup.zip: [Errno 2] No such file or directory: 'C:/Users/adity/Downloads\\Encrypted\\local_backup.zip.enc'
+2025-04-03 16:08:30,873 - \U0001f4dc Ransom note created: C:/Users/adity/Downloads\ransom_note.txt
+2025-04-03 16:08:30,874 - \U0001f480 Ransomware attack simulated! Check C:/Users/adity/Downloads\ransom_note.txt for details.
+2025-04-03 16:14:44,572 - \U0001f50d Monitoring C:/Users/adity/Downloads for new ZIP files...
+2025-04-03 16:14:44,573 - \U0001f512 Encrypting C:/Users/adity/Downloads\local_backup.zip...
+2025-04-03 16:14:44,579 - \u2705 Encrypted and moved to C:/Users/adity/Downloads\Encrypted: local_backup.zip
+2025-04-03 16:14:44,583 - \U0001f4dc Ransom note created: C:/Users/adity/Downloads\ransom_note.txt
+2025-04-03 16:14:44,587 - \U0001f480 Ransomware attack simulated! Check C:/Users/adity/Downloads\ransom_note.txt for details.
+2025-04-03 16:15:08,448 - \u26a0\ufe0f Skipping non-encrypted file: local_backup.zip
+2025-04-03 16:27:53,864 - \u26a0\ufe0f Skipping non-encrypted file: local_backup.zip
+2025-04-03 21:13:03,744 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-03 21:13:03,745 - [33mPress CTRL+C to quit[0m
+2025-04-03 21:13:03,750 -  * Restarting with stat
+2025-04-03 21:15:04,726 -  * Debugger is active!
+2025-04-03 21:15:04,731 -  * Debugger PIN: 123-218-935
+2025-04-03 21:15:35,514 - \u26a0\ufe0f Phishing link clicked! Triggered deletion at 2025-04-03 21:15:35.
+2025-04-03 21:15:35,515 - 127.0.0.1 - - [03/Apr/2025 21:15:35] "GET /clicked HTTP/1.1" 200 -
+2025-04-03 21:15:35,876 - 127.0.0.1 - - [03/Apr/2025 21:15:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-03 21:19:26,859 - \U0001f6a8 Primary system failure detected! Initiating failover...
+2025-04-03 21:19:26,859 - \u26a0\ufe0f No local backup found. Attempting to fetch from S3...
+2025-04-03 21:19:26,860 - Attempting to fetch backup from S3...
+2025-04-03 21:20:40,899 - \u2705 Backup downloaded successfully from S3!
+2025-04-03 21:20:40,901 - \u2705 Failover completed using S3 backup!
+2025-04-03 21:25:22,623 -  * Debugger is active!
+2025-04-03 21:25:22,624 -  * Debugger PIN: 123-218-935
+2025-04-03 21:27:30,864 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-03 21:27:30,865 - [33mPress CTRL+C to quit[0m
+2025-04-03 21:27:30,867 -  * Restarting with stat
+2025-04-03 21:31:11,285 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-03 21:31:11,285 - [33mPress CTRL+C to quit[0m
+2025-04-03 21:31:11,288 -  * Restarting with stat
+2025-04-03 21:39:41,743 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-03 21:39:41,743 - [33mPress CTRL+C to quit[0m
+2025-04-03 21:39:51,988 - \u26a0\ufe0f Phishing link clicked! Files deleted at 2025-04-03 21:39:51.
+2025-04-03 21:39:51,989 - 127.0.0.1 - - [03/Apr/2025 21:39:51] "GET /clicked HTTP/1.1" 200 -
+2025-04-03 21:40:39,816 - \U0001f6a8 Primary system failure detected! Initiating failover...
+2025-04-03 21:40:39,816 - \u26a0\ufe0f No local backup found. Attempting to fetch from S3...
+2025-04-03 21:40:39,817 - Attempting to fetch backup from S3...
+2025-04-03 21:45:42,660 - \u2705 Backup downloaded successfully from S3!
+2025-04-03 21:45:42,663 - \u2705 Failover completed using S3 backup!

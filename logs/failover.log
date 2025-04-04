@@ -1,0 +1,5 @@
+2025-04-04 09:35:45,188 - INFO - \U0001f680 Starting disaster recovery process...
+2025-04-04 09:35:45,197 - INFO - \u2705 Latest local backup found: E:/Saved Games/disaster-recovery-system/backups\local_backup.zip
+2025-04-04 09:35:45,197 - INFO - \U0001f504 Restoring from backup: E:/Saved Games/disaster-recovery-system/backups\local_backup.zip
+2025-04-04 09:35:48,197 - INFO - \u2705 System successfully recovered from backup.
+2025-04-04 09:35:48,197 - INFO - \U0001f3c1 Disaster recovery process completed.

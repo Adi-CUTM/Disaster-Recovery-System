@@ -1,0 +1,4 @@
+2025-03-24 10:20:06,900 - ERROR - ❌ Error connecting to VirusTotal API: 'attributes'
+2025-03-24 10:20:06,902 - ERROR - ❌ Error scanning file: C:\Program Files\Adobe\Acrobat DC\Acrobat\Assets\DesktopNotif-AIChat-LIGHT.gif
+2025-04-03 16:35:34,484 - ERROR - ❌ Error while executing command 'ransom-recover': decrypt_files() takes 0 positional arguments but 1 was given
+2025-04-03 21:25:22,624 - ERROR - ❌ Error while executing command 'phish-sim': [WinError 10038] An operation was attempted on something that is not a socket

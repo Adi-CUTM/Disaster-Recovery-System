@@ -1,0 +1,10 @@
+2025-04-03 20:20:18,333 - INFO - 🔍 Scanning for encrypted files...
+2025-04-03 20:20:18,357 - INFO - ✅ Decrypted: C:/Users/adity/Downloads\Encrypted\local_backup.zip
+2025-04-03 20:20:18,358 - INFO - 📜 Ransom note deleted.
+2025-04-03 20:20:18,399 - ERROR - ❌ Error moving C:/Users/adity/Downloads\Encrypted to Recycle Bin: [WinError -2147024809] The parameter is incorrect.: 'C:/Users/adity/Downloads\\Encrypted'
+2025-04-03 20:20:18,400 - INFO - ✅ Recovery process completed successfully!
+2025-04-03 20:25:33,525 - INFO - 🔍 Scanning for encrypted files...
+2025-04-03 20:25:33,552 - INFO - ✅ Decrypted: C:/Users/adity/Downloads\Encrypted\local_backup.zip
+2025-04-03 20:25:33,553 - INFO - 📜 Ransom note deleted.
+2025-04-03 20:25:33,581 - ERROR - ❌ Error moving C:/Users/adity/Downloads\Encrypted to Recycle Bin: [WinError -2147024809] The parameter is incorrect.: 'C:/Users/adity/Downloads\\Encrypted'
+2025-04-03 20:25:33,582 - INFO - ✅ Recovery process completed successfully!
