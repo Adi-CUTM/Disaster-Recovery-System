@@ -7,7 +7,7 @@ from monitoring_logging.monitor import monitor_backups
 # Import Phishing & Ransomware Modules
 from phishing_sim.send_phishing_email import send_email
 from phishing_sim.track_clicks import track_phishing_clicks
-from ransom_attack.ransom import monitor_downloads
+from ransom_attack.ransomware_recovery import recover_files
 from ransom_attack.ransomware_recovery import decrypt_file
 
 # ✅ Updated: Import failover_handler for phishing recovery & disaster recovery

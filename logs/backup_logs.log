@@ -91,3 +91,9 @@
 2025-04-04 10:08:30,487 - ERROR - ❌ Local backup not found! Creating dummy backup at 2025-04-04 10:08:30.486644.
 2025-04-04 10:08:30,491 - INFO - ✅ Cloud backup is up-to-date at 2025-04-04 10:08:30.490647.
 2025-04-04 10:08:30,506 - INFO - ✅ Backup verification completed successfully.
+2025-07-19 22:55:07,252 - INFO - 🚀 Executing command: check-db
+2025-07-19 22:55:08,781 - INFO - ✅ Database connection verified successfully.
+2025-07-19 22:55:27,423 - INFO - 🚀 Executing command: cloud-backup
+2025-07-19 22:55:27,423 - INFO - Starting cloud backup...
+2025-07-19 22:55:33,404 - INFO - Cloud backup uploaded successfully.
+2025-07-19 22:55:33,404 - INFO - ✅ Cloud backup executed successfully.
