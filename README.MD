@@ -48,7 +48,6 @@ In real-world environments, organizations face the constant threat of cyber atta
 ```bash
 git clone https://github.com/Adi-CUTM/Disaster-Recovery-System.git
 cd disaster-recovery-system
-pip install -r requirements.txt
 
 
 
